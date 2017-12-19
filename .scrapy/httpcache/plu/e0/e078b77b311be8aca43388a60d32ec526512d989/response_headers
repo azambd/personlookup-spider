@@ -1,0 +1,14 @@
+X-Request-Id: b7d217c7-dce6-4449-a707-f1d4e9677a3d
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Runtime: 1.516360
+Via: 1.1 vegur
+Cache-Control: max-age=0, private, must-revalidate
+Date: Mon, 18 Dec 2017 18:37:27 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Cf-Ray: 3cf43ba83e003144-SIN
